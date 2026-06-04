@@ -58,7 +58,7 @@ https://premiumtvs.space:443/live/2299900937377/99559955/98882.ts
 #EXTINF:-1 tvg-name="086. COLORS CINEPLEX HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Color_Cineplex_HD.png" group-title="Movie" tvg-server="Server 1",COLORS CINEPLEX HD 
 https://premiumtvs.space:443/live/2299900937377/99559955/9378.ts
 #EXTINF:-1 tvg-name="085. COLORS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Colors_TV_logo.svg/1280px-Colors_TV_logo.svg.png" group-title="Indian" tvg-server="Server 1",COLORS HD 
-https://premiumtvs.space:443/live/2299900937377/99559955/219.ts
+http://premiumtvs.space:80/2299900937377/99559955/219
 #EXTINF:-1 tvg-name="116. Cricbuzz" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/600_144.png" group-title="Sports" tvg-server="Server 1",Cricbuzz 
 https://premiumtvs.space:443/live/2299900937377/99559955/2494.ts
 #EXTINF:-1 tvg-name="010. DBC News" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/DBC%20News.png" group-title="Bangla" tvg-server="Server 1",DBC News 
@@ -86,13 +86,13 @@ https://tvsen6.aynaott.com/etv/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="089. ENTER 10 BANGLA" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ENTERR10_BANGLA/images/LOGO_HD/image.png" group-title="Indian" tvg-server="Server 1",ENTER 10 BANGLA 
 https://live-bangla.akamaized.net/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-name="057. FOX CRIC 501 ᴴᴰ" tvg-logo="http://greenpa1.com/fox.png" group-title="Sports" tvg-server="Server 1",FOX CRIC 501 ᴴᴰ 
-https://premiumtvs.space:443/live/2299900937377/99559955/1856.ts
+http://premiumtvs.space:80/2299900937377/99559955/1856
 #EXTINF:-1 tvg-name="091. G-Serise" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/ce/G-Series_Logo.png" group-title="Bangla" tvg-server="Server 1",G-Serise 
 https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="040. Gazi TV" tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/Bangladesh/gtv-hd-bd.png" group-title="Bangla" tvg-server="Server 1",Gazi TV 
 https://tvsen1.aynaott.com/Ravc7gPCZpxk/index.m3u8
 #EXTINF:-1 tvg-name="081. HUM MASALA" tvg-logo="https://image.winudf.com/v2/image/Y29tLmdlb2VudGVydGFpbm1lbnQuaGQubGl2ZS50dl9pY29uXzE1MjgwODQ3MTlfMDc3/icon.png?w=184&fakeurl=1" group-title="Drama" tvg-server="Server 1",GEO HD 
-https://premiumtvs.space:443/live/2299900937377/99559955/119.ts
+http://premiumtvs.space:80/2299900937377/99559955/119
 #EXTINF:-1 tvg-name="102. GEO SUPER" tvg-logo="http://greenpa1.com/geosuper.png" group-title="Sports" tvg-server="Server 1",GEO SUPER 
 https://premiumtvs.space:443/live/2299900937377/99559955/101.ts
 #EXTINF:-1 tvg-name="013. Global TV" tvg-logo="https://s3.aynaott.com/storage/bda05e1c2173251baebc20ffe43dea0b" group-title="Bangla" tvg-server="Server 1",Global TV 
@@ -114,7 +114,7 @@ http://146.59.253.52:8080/hindihitshd/index.m3u8
 #EXTINF:-1 tvg-name="067. Hub Sports 4" tvg-logo="https://i.imgur.com/cvqJupU.png" group-title="Sports" tvg-server="Server 1",Hub Sports 4 
 https://premiumtvs.space:443/live/2299900937377/99559955/196347.ts
 #EXTINF:-1 tvg-name="099. HUM HD" tvg-logo="https://crystalpng.com/wp-content/uploads/2025/04/hum-logo.png" group-title="Drama" tvg-server="Server 1",HUM HD 
-https://premiumtvs.space:443/live/2299900937377/99559955/49584.ts
+http://premiumtvs.space:80/2299900937377/99559955/122
 #EXTINF:-1 tvg-name="014. Independent TV" tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/Bangladesh/independent-bd.png" group-title="Bangla" tvg-server="Server 1",Independent TV 
 https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/1704.m3u8
 #EXTINF:-1 tvg-name="027. Islamic TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/Islamic_TV_New_Logo.png" group-title="Bangla" tvg-server="Server 1",Islamic TV 
@@ -150,7 +150,7 @@ https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-name="119. POGO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/POGO-logo.png" group-title="Kids" tvg-server="Server 1",POGO 
 https://premiumtvs.space:443/live/2299900937377/99559955/1918.ts
 #EXTINF:-1 tvg-id="PTV.Sports.pk" tvg-name="059. PTV Sports" tvg-logo="http://greenpa1.com/ptvsporthd.png" group-title="Sports" tvg-server="Server 1",PTV Sports 
-https://premiumtvs.space:443/live/2299900937377/99559955/89.ts
+http://premiumtvs.space:80/2299900937377/99559955/89
 #EXTINF:-1 tvg-name="079. Real Madrid tv Football" tvg-logo="https://i.ibb.co/VYLZD4nP/Real-Madrid-TV-Now-On-Tula-Watch.jpg" group-title="Sports" tvg-server="Server 1",Real Madrid tv Football 
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 #EXTINF:-1 tvg-name="020. RTV" tvg-logo="https://s3.aynaott.com/storage/094587a26f2c5e4f2962104728ec8c5d" group-title="Bangla" tvg-server="Server 1",RTV 
@@ -182,11 +182,11 @@ https://premiumtvs.space:443/live/2299900937377/99559955/151.ts
 #EXTINF:-1 tvg-name="098. SONY PIX HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/fd/Sony_Pix_HD.png/revision/latest/scale-to-width-down/340?cb=20191203075048" group-title="Indian" tvg-server="Server 1",SONY PIX HD 
 https://premiumtvs.space:443/live/2299900937377/99559955/98846.ts
 #EXTINF:-1 tvg-name="108.Sony Sab" tvg-logo="https://i.ibb.co/Ns8hynf/Sony-Sab-new.png" group-title="Indian" tvg-server="Server 1",SONY SAB 
-https://premiumtvs.space:443/live/2299900937377/99559955/145.ts
+http://premiumtvs.space:80/2299900937377/99559955/9368
 #EXTINF:-1 tvg-name="061. SONY TEN 1 HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_1_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png" group-title="Sports" tvg-server="Server 1",SONY TEN 1 HD 
 https://premiumtvs.space:443/live/2299900937377/99559955/9402.ts
 #EXTINF:-1 tvg-id="SonySportsTen2.in@HD" tvg-name="062. SONY TEN 2 HD" tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/sony-ten-2-hd-in.png" group-title="Sports" tvg-server="Server 1",SONY TEN 2 HD 
-https://premiumtvs.space:443/live/2299900937377/99559955/192.ts
+http://premiumtvs.space:80/2299900937377/99559955/31314
 #EXTINF:-1 tvg-name="113. SONY TEN 3 HD" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen3_HD.png" group-title="Sports" tvg-server="Server 1",SONY TEN 3 HD 
 https://premiumtvs.space:443/live/2299900937377/99559955/9404.ts
 #EXTINF:-1 tvg-id="SonySportsTen5.in@HD" tvg-name="063. SONY TEN 5 HD" tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/sony-ten-5-hd-in.png" group-title="Sports" tvg-server="Server 1",SONY TEN 5 HD 
@@ -198,13 +198,13 @@ https://edge2.roarzone.net:8447/roarzone/edge3/sonyyay/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="022. SRK TV" tvg-logo="https://asset.bioscopelive.com/uploads/images/2025/08/11/thumbnails_58ebcef1efcc65837557de15952d2643_goplay_srk_tv_landscape.jpg" group-title="Drama" tvg-server="Server 1",SRK TV 
 https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="StarGold2.in@SD" tvg-name="065. Star Gold 2 HD" tvg-logo="https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_GOLD_2_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png" group-title="Indian" tvg-server="Server 1",Star Gold 2 HD 
-https://premiumtvs.space:443/live/2299900937377/99559955/4324.ts
+http://premiumtvs.space:80/2299900937377/99559955/157081
 #EXTINF:-1 tvg-name="064. STAR GOLD HD" tvg-logo="http://LOGO-iptvpro.com/LOGO/SKYUK/stargold_uk.png" group-title="Indian" tvg-server="Server 1",STAR GOLD HD 
 https://premiumtvs.space:443/live/2299900937377/99559955/194.ts
 #EXTINF:-1 tvg-id="StarGoldSelect.in@HD" tvg-name="106. Star Gold Select HD" tvg-logo="https://i.imgur.com/U7eiuqv.png" group-title="Indian" tvg-server="Server 1",Star Gold Select HD 
-https://premiumtvs.space:443/live/2299900937377/99559955/210.ts
+http://premiumtvs.space:80/2299900937377/99559955/210
 #EXTINF:-1 tvg-name="044. Star Jalsha HD" tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/star-jalsha-hd-in.png" group-title="Indian" tvg-server="Server 1",Star Jalsha HD 
-https://premiumtvs.space:443/live/2299900937377/99559955/198.ts
+http://premiumtvs.space:80/2299900937377/99559955/221
 #EXTINF:-1 tvg-id="StarMovies.in@HD" tvg-name="066. STAR MOVIES HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES/images/LOGO_HD/image.png" group-title="Movie" tvg-server="Server 1",STAR MOVIES HD 
 https://premiumtvs.space:443/live/2299900937377/99559955/9384.ts
 #EXTINF:-1 tvg-name="STAR MOVIES SELECT" tvg-logo="https://tma-live.s3.ap-south-1.amazonaws.com/medias/55fb00a38ead0e79178b5f14/1565806488322/55fb00a38ead0e79178b5f14.jpg" group-title="Movie" tvg-server="Server 1",STAR MOVIES SELECT 
@@ -212,9 +212,9 @@ https://premiumtvs.space:443/live/2299900937377/99559955/218.ts
 #EXTINF:-1 tvg-name="023. Star News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNYXbr0RNs-Nj_kAaimUwXFBWtn-eHAgbOUQ&s" group-title="Bangla" tvg-server="Server 1",Star News 
 https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/1701.m3u8
 #EXTINF:-1 tvg-id="StarPlus.in@SD" tvg-name="045. Star Plus HD" tvg-logo="https://i.imgur.com/xWxNy3L.png" group-title="Indian" tvg-server="Server 1",Star Plus HD 
-https://premiumtvs.space:443/live/2299900937377/99559955/167.ts
+https://premiumtvs.space:443/live/2299900937377/99559955/221.ts
 #EXTINF:-1 tvg-id="StarSports1.in@HD" tvg-name="050. Star Sports 1 HD" tvg-logo="http://greenpa1.com/starsports1.png" group-title="Sports" tvg-server="Server 1",Star Sports 1 HD 
-https://premiumtvs.space:443/live/2299900937377/99559955/124281.ts
+http://premiumtvs.space:80/2299900937377/99559955/148
 #EXTINF:-1 tvg-name="122. Star Sports 1 Hindi HD" tvg-logo="http://greenpa1.com/ssh1.png" group-title="Sports" tvg-server="Server 1",Star Sports 1 Hindi HD 
 https://premiumtvs.space:443/live/2299900937377/99559955/211.ts
 #EXTINF:-1 tvg-name="115. Star Sports 2 HD" tvg-logo="https://tatalogo.pages.dev/235.png" group-title="Sports" tvg-server="Server 1",Star Sports 2 HD 
